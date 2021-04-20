@@ -193,7 +193,7 @@ const styles = StyleSheet.create({
   sentContainer: {
     flexDirection: "row",
     alignSelf: "flex-end",
-    marginRight: 15,
+    marginRight: 10,
     marginBottom: 20,
   },
   receiveContainer: {
@@ -201,7 +201,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     alignSelf: "flex-start",
     marginBottom: 20,
-    marginLeft: 15,
+    marginLeft: 10,
   },
   photoURL: {
     width: 35,
